@@ -9,3 +9,4 @@
   <li>Melhorias na responsividade para telas pequenas</li>
   <li>Abrir links em nova janela</li>
 </ul>
+https://alanaontheshore.github.io/portfolio/
