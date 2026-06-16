@@ -155,12 +155,12 @@ li {
 
 #projetos h2 {
   color: #ffb4e7;
-  margin-bottom: 1em;
+  margin: 1em;
 }
 
 .projeto-card p {
   color: #f0edee;
-  margin: 25px;
+  margin-bottom: 25px;
 }
 .projeto-card a {
   color: #ffb4e7;
